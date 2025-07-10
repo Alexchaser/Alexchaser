@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**Alexchaser/Alexchaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi! I'm currently studying **Cybersecurity** through an online course and building hands-on skills in **network security, ethical hacking, and digital forensics**. I’m passionate about learning how systems break so I can help secure them.
+## Hi there 👋 I'm Alexchaser currently studying **Cybersecurity** through an online course and building hands-on skills in **network security, ethical hacking, and digital forensics**. I’m passionate about learning how systems break so I can help secure them.
 
 ---
 
