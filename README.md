@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Alexchaser currently studying **Cybersecurity** through an online course and building hands-on skills in **network security, ethical hacking, and digital forensics**. I’m passionate about learning how systems break so I can help secure them.
+## Hi there 👋 I'm Alexander Godswill Sampson currently studying **Cybersecurity**  and building hands-on skills in **network security, ethical hacking, and digital forensics**. I’m passionate about learning how systems break so I can help secure them.
 
 ---
 
