@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Alexander Godswill Sampson currently studying **Cybersecurity**  and building hands-on skills in **network security, ethical hacking, and digital forensics**. I’m passionate about learning how systems break so I can help secure them.
+## Hi there 👋 I'm Alexander Godswill Sampson I am driven and passionate about safeguarding people’s
+security, including their financial well being. I enjoy working with technology and
+analyzing and solving complex problems.
 
 ---
 
